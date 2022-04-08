@@ -1,0 +1,9 @@
+// Import additional CSS files
+@import "reset.scss";
+@import "typography.scss";
+
+// Set a rule to demonstrate some SASS.
+body {
+    background-color: rgb(20, 25, 123);
+    color: white;
+}
